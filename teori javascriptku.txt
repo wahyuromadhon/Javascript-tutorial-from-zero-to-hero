@@ -1,0 +1,8 @@
+Belajar Javascript dari Nol:
+1. Javascript awalanya beranama Mocha, pada tahun 1995 berganti nama menjadi Livescript
+2. Microsoft terinspirasi dngan kesuksesan Netscape akhirnya perang lah antara JScript vs Javascript
+3. akhirnya javascript membuat standarisasi ke ECMA international dan lahirlah ECMAScript atau ES
+4. Cara penulisan Javascript:
+	a. Dengan cara ditempel langsung kedalam HTML (embed)
+	b. Dengan cara penulisan Inline (biasanya digunakan untuk memanggil fungsi pada event tertentu)
+	c. 
